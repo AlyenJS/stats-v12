@@ -1,0 +1,31 @@
+{
+  "name": "hello-express",
+  "version": "0.0.1",
+  "description": "bot",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "discord.js": "^12.2.0",
+    "ms": "^2.1.2",
+    "fs": "^0.0.2",
+    "moment": "^2.27.0",
+    "quick.db": "^7.1.1",
+    "moment-duration-format": "^2.2.2",
+    "discord-logs": "^1.7.7"
+  },
+  "engines": {
+    "node": "12.x"
+  },
+  "repository": {
+    "url": "https://glitch.com/edit/#!/hello-express"
+  },
+  "license": "MIT",
+  "keywords": [
+    "node",
+    "glitch",
+    "express"
+  ]
+}
